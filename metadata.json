@@ -1,0 +1,22 @@
+[
+    {
+        "image_id": "page_1_image_1",
+        "page_number": 1,
+        "image_path": "extracted_images\\page_1_image_1.png"
+    },
+    {
+        "image_id": "page_3_image_1",
+        "page_number": 3,
+        "image_path": "extracted_images\\page_3_image_1.png"
+    },
+    {
+        "image_id": "page_3_image_2",
+        "page_number": 3,
+        "image_path": "extracted_images\\page_3_image_2.png"
+    },
+    {
+        "image_id": "page_6_image_1",
+        "page_number": 6,
+        "image_path": "extracted_images\\page_6_image_1.png"
+    }
+]
